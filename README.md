@@ -41,3 +41,4 @@ At AL Farasha Medical Equipments, I led initiatives that:
 - 📊 **Admin Dashboard SPA** – React.js + Tailwind + secure JWT Auth  
 - 🌐 **Nuxt.js SSR Project** – SEO-optimized server-side rendered app  
 - ⚙️ **
+🔗 **Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-fathi-mba/)
